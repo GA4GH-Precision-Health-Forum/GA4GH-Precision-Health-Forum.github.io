@@ -1,5 +1,6 @@
 # GA4GH Precision Health Forum
 The GA4GH Precision Health Forum consists of regional precision health initiatives that are GA4GH Driver Projects and other Organizational Members. By coming together as a formal group, we strive to empower knowledge exchange and collaboration among global initiatives as they pursue the common goal of advancing human health.  
+
 This consortium helps avoid both duplication of efforts across multiple countries as well as the collection of incompatible clinical genomic data and health information. A lack of global cooperation in data sharing and clinical implementation of genomics could mean inaccurate data interpretation, misdiagnosis and high cost solutions to healthcare.
 ## This community aims to:
 * Contribute to the development and adoption of international GA4GH standards
